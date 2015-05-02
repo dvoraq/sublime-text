@@ -9,7 +9,7 @@ Sublime Text overlay is a collection of ebuilds to install Sublime Text 2 or Sub
 Setup
 -----
 
-Install layman in your ditribution is you don't installed it already and then execute:
+Install layman in your ditribution if you don't installed it already and then execute:
 
     sudo layman -a sublime-text
 
@@ -26,7 +26,7 @@ Overlays
 --------
 
 1. app-admin/eselect-sublime
-2. app-editor/sublime-text
+2. app-editors/sublime-text
 
 
 Is this overlay supported by Gentoo?
@@ -36,6 +36,6 @@ Yes, since May 2013 this overlay is officialy included in the Gentoo layman over
 
 
 Where can I send feedbacks?
-----------------------------
+---------------------------
 
-Use this repository issues system
+Use this repository issues system.
